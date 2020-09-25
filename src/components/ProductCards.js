@@ -11,19 +11,19 @@ function ProductCards() {
           <ul className="cards__items">
             <ProductCardItem
               src="images/img-9.jpg"
-              text="Explore the hidden waterfall deep inside the Amazon Jungle"
+              text="Kerala Backwater Packages"
               label="Adventure"
               path="/services"
             />
             <ProductCardItem
               src="images/img-2.jpg"
-              text="Travel through the Islands of Bali in a Private Cruise"
+              text="Kerala Hill Station Packages"
               label="Luxury"
               path="/services"
             />
             <ProductCardItem
               src="images/img-8.jpg"
-              text="Ride through the Sahara Desert on a guided camel tour"
+              text="Kerala Beach Packages"
               label="Adrenaline"
               path="/sign-up"
             />
@@ -31,19 +31,19 @@ function ProductCards() {
           <ul className="cards__items">
             <ProductCardItem
               src="images/img-3.jpg"
-              text="Set Sail in the Atlantic Ocean visiting Uncharted Waters"
+              text="Kerala Ayurveda Packages"
               label="Mystery"
               path="/services"
             />
             <ProductCardItem
               src="images/img-4.jpg"
-              text="Experience Football on Top of the Himilayan Mountains"
+              text="Kerala Gavi Packages"
               label="Adventure"
               path="/products"
             />
             <ProductCardItem
               src="images/img-8.jpg"
-              text="Ride through the Sahara Desert on a guided camel tour"
+              text="South Indian Spiritual Tour"
               label="Adrenaline"
               path="/sign-up"
             />
