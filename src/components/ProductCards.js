@@ -10,42 +10,60 @@ function ProductCards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <ProductCardItem
-              src="images/img-9.jpg"
+              src="images/Kerala_backwaters.jpg"
               text="Kerala Backwater Packages"
               label="Adventure"
               path="/services"
+              money=" $ 300"
+              days="2"
+              place="Alappuzha"
             />
             <ProductCardItem
-              src="images/img-2.jpg"
+              src="images/hillstation.jpg"
               text="Kerala Hill Station Packages"
               label="Luxury"
               path="/services"
+              money=" $ 450"
+              days="5"
+              place="Munnar"
             />
             <ProductCardItem
-              src="images/img-8.jpg"
+              src="images/kozhikode-beach.jpg"
               text="Kerala Beach Packages"
               label="Adrenaline"
               path="/sign-up"
+              money=" $ 500"
+              days="3"
+              place="Kovalam"
             />
           </ul>
           <ul className="cards__items">
             <ProductCardItem
-              src="images/img-3.jpg"
+              src="images/kerala-ayurveda.jpg"
               text="Kerala Ayurveda Packages"
               label="Mystery"
               path="/services"
+              money=" $1000"
+              days="7"
+              place="Kozhikode"
             />
             <ProductCardItem
-              src="images/img-4.jpg"
+              src="images/kerala_gavi.jpg"
               text="Kerala Gavi Packages"
               label="Adventure"
               path="/products"
+              money=" $ 500"
+              days="4"
+              place="Pathanamthitta"
             />
             <ProductCardItem
-              src="images/img-8.jpg"
+              src="images/temple.jpg"
               text="South Indian Spiritual Tour"
               label="Adrenaline"
               path="/sign-up"
+              money=" $ 1000"
+              days="7"
+              place="Mookambika"
             />
           </ul>
         </div>

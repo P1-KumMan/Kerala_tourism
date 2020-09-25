@@ -17,14 +17,17 @@ function ProductCardItem(props) {
             <h5 className="cards__item__text">{props.text}</h5>
             <div class="place-cap-bottom">
               <p className="dolor">
-                $1800<span> / Per Person</span>
+                {props.money}
+                <span> / Per Person</span>
               </p>
               <ul>
                 <li>
-                  <i class="far fa-clock"></i>3 Days
+                  <i class="far fa-clock"></i>
+                  {props.days} Days
                 </li>
                 <li>
-                  <i class="fas fa-map-marker-alt"></i>Los Angeles
+                  <i class="fas fa-map-marker-alt"></i>
+                  {props.place}
                 </li>
               </ul>
             </div>
