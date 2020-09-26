@@ -12,7 +12,7 @@ function ProductCards() {
             <ProductCardItem
               src="images/Kerala_backwaters.jpg"
               text="Kerala Backwater Packages"
-              label="Adventure"
+              label="Luxury"
               path="/services"
               money=" $ 300"
               days="2"
@@ -30,7 +30,7 @@ function ProductCards() {
             <ProductCardItem
               src="images/kozhikode-beach.jpg"
               text="Kerala Beach Packages"
-              label="Adrenaline"
+              label="Relaxation"
               path="/sign-up"
               money=" $ 500"
               days="3"
@@ -41,7 +41,7 @@ function ProductCards() {
             <ProductCardItem
               src="images/kerala-ayurveda.jpg"
               text="Kerala Ayurveda Packages"
-              label="Mystery"
+              label="Wellness"
               path="/services"
               money=" $1000"
               days="7"
@@ -59,7 +59,7 @@ function ProductCards() {
             <ProductCardItem
               src="images/temple.jpg"
               text="South Indian Spiritual Tour"
-              label="Adrenaline"
+              label="Spiritual"
               path="/sign-up"
               money=" $ 1000"
               days="7"
